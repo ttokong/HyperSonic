@@ -1,0 +1,10 @@
+Game title: Hypersonic
+2D Platformer silhouette base game.
+Basic game idea,
+You are a robot that was rebooted after an apocalypse due to an AI programmed by scientists to hopefully prevent the event. You can travel back and forth through time at the cost of stamina. you lose if you run out of stamina. your mission is to prevent this apocalyptic event within the given stamina.
+some abilities that you pick up through the game is:
+RELOCATE - teleports short distances that is not a blocked path.
+CHRONOLOGICAL VISION - Allows you to see faraway things
+TIME LOCK - creates a circle of energy that prevents anyone/anything within it it stop moving. Lasts for 3 seconds. Bullets shot through it stack up to deal its damage after the duration.
+QUANTUM FLUX - slow down everything around you by 75% for 8 seconds
+
