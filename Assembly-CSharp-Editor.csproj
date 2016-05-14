@@ -89,6 +89,24 @@
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
+ <Reference Include="GAF">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/GAF.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip.Reduced">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Ionic.Zip.Reduced.dll</HintPath>
+ </Reference>
+ <Reference Include="MiniJson">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/MiniJson.dll</HintPath>
+ </Reference>
+ <Reference Include="GAFConverter">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Editor/GAFConverter.dll</HintPath>
+ </Reference>
+ <Reference Include="GAFEditor">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Editor/GAFEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="MiniJson">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Editor/MiniJson.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -106,24 +124,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="Ionic.Zip.Reduced">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Ionic.Zip.Reduced.dll</HintPath>
- </Reference>
- <Reference Include="GAFEditor">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Editor/GAFEditor.dll</HintPath>
- </Reference>
- <Reference Include="GAF">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/GAF.dll</HintPath>
- </Reference>
- <Reference Include="MiniJson">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/MiniJson.dll</HintPath>
- </Reference>
- <Reference Include="MiniJson">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Editor/MiniJson.dll</HintPath>
- </Reference>
- <Reference Include="GAFConverter">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Editor/GAFConverter.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

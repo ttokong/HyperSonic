@@ -76,11 +76,11 @@
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
- <Reference Include="Ionic.Zip.Reduced">
- <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Ionic.Zip.Reduced.dll</HintPath>
- </Reference>
  <Reference Include="GAF">
  <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/GAF.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip.Reduced">
+ <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="MiniJson">
  <HintPath>C:/Users/tanryan777/Documents/GitHub/HyperSonic/Assets/GAF/Plugins/MiniJson.dll</HintPath>

@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: e4d1967f91589c64589de0d73f5bd3fc
+timeCreated: 1463220896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HyperSonic mid-air roundhouse kick_Spritesheet6x5_0
+    21300002: HyperSonic mid-air roundhouse kick_Spritesheet6x5_1
+    21300004: HyperSonic mid-air roundhouse kick_Spritesheet6x5_2
+    21300006: HyperSonic mid-air roundhouse kick_Spritesheet6x5_3
+    21300008: HyperSonic mid-air roundhouse kick_Spritesheet6x5_4
+    21300010: HyperSonic mid-air roundhouse kick_Spritesheet6x5_5
+    21300012: HyperSonic mid-air roundhouse kick_Spritesheet6x5_6
+    21300014: HyperSonic mid-air roundhouse kick_Spritesheet6x5_7
+    21300016: HyperSonic mid-air roundhouse kick_Spritesheet6x5_8
+    21300018: HyperSonic mid-air roundhouse kick_Spritesheet6x5_9
+    21300020: HyperSonic mid-air roundhouse kick_Spritesheet6x5_10
+    21300022: HyperSonic mid-air roundhouse kick_Spritesheet6x5_11
+    21300024: HyperSonic mid-air roundhouse kick_Spritesheet6x5_12
+    21300026: HyperSonic mid-air roundhouse kick_Spritesheet6x5_13
+    21300028: HyperSonic mid-air roundhouse kick_Spritesheet6x5_14
+    21300030: HyperSonic mid-air roundhouse kick_Spritesheet6x5_15
+    21300032: HyperSonic mid-air roundhouse kick_Spritesheet6x5_16
+    21300034: HyperSonic mid-air roundhouse kick_Spritesheet6x5_17
+    21300036: HyperSonic mid-air roundhouse kick_Spritesheet6x5_18
+    21300038: HyperSonic mid-air roundhouse kick_Spritesheet6x5_19
+    21300040: HyperSonic mid-air roundhouse kick_Spritesheet6x5_20
+    21300042: HyperSonic mid-air roundhouse kick_Spritesheet6x5_21
+    21300044: HyperSonic mid-air roundhouse kick_Spritesheet6x5_22
+    21300046: HyperSonic mid-air roundhouse kick_Spritesheet6x5_23
+    21300048: HyperSonic mid-air roundhouse kick_Spritesheet6x5_24
+    21300050: HyperSonic mid-air roundhouse kick_Spritesheet6x5_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 52.22223}
+        - {x: -95, y: 52.22223}
+        - {x: -110, y: 27.222229}
+        - {x: -110, y: -19.777771}
+        - {x: -109, y: -19.777771}
+        - {x: -100, y: -20.777771}
+        - {x: -102, y: -54.77777}
+        - {x: -75, y: -91.77777}
+        - {x: -9, y: -91.77777}
+        - {x: -9, y: 6.222229}
+        - {x: -32, y: 39.22223}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1200
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.66666, y: 52.22223}
+        - {x: -109.66666, y: 37.22223}
+        - {x: -109.66666, y: -91.77777}
+        - {x: -8.6666565, y: -91.77777}
+        - {x: -8.6666565, y: -5.777771}
+        - {x: -40.666656, y: 52.22223}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.33331, y: 52.22223}
+        - {x: -109.33331, y: 28.222229}
+        - {x: -109.33331, y: -63.77777}
+        - {x: -79.33331, y: -91.77777}
+        - {x: -8.333313, y: -91.77777}
+        - {x: -8.333313, y: 52.22223}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1200
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -20.777771}
+        - {x: 14, y: -7.777771}
+        - {x: 7, y: -9.777771}
+        - {x: -5, y: 15.222229}
+        - {x: -18, y: 24.222229}
+        - {x: -37, y: 28.222229}
+        - {x: -64, y: 34.22223}
+        - {x: -79, y: 47.22223}
+        - {x: -106, y: 47.22223}
+        - {x: -113, y: 45.22223}
+        - {x: -124, y: -49.77777}
+        - {x: -124, y: -70.77777}
+        - {x: -123, y: -72.77777}
+        - {x: -83, y: -72.77777}
+        - {x: 20, y: -48.77777}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.666626, y: -18.777771}
+        - {x: -3.666626, y: -11.777771}
+        - {x: 2.333374, y: 22.222229}
+        - {x: -51.666626, y: 47.22223}
+        - {x: -110.666626, y: 47.22223}
+        - {x: -123.666626, y: 5.222229}
+        - {x: -123.666626, y: -72.77777}
+        - {x: 14.333374, y: -72.77777}
+        - {x: 21.333374, y: -58.77777}
+        - {x: 21.333374, y: -12.777771}
+        - {x: 15.333374, y: -6.777771}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1200
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.333374, y: 53.22223}
+        - {x: -121.333374, y: 53.22223}
+        - {x: -121.333374, y: -66.77777}
+        - {x: -38.333374, y: -66.77777}
+        - {x: 57.666626, y: -41.77777}
+        - {x: 58.666626, y: -38.77777}
+        - {x: 58.666626, y: 5.222229}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 8.166687}
+        - {x: -28, y: 11.166687}
+        - {x: -19, y: 27.166687}
+        - {x: -78, y: 54.166687}
+        - {x: -111, y: 54.166687}
+        - {x: -121, y: 49.166687}
+        - {x: -121, y: 22.166687}
+        - {x: -107, y: 7.166687}
+        - {x: -97, y: 1.166687}
+        - {x: -121, y: -20.833313}
+        - {x: -123, y: -28.833313}
+        - {x: -123, y: -66.83331}
+        - {x: -18, y: -66.83331}
+        - {x: 57, y: -57.833313}
+        - {x: 57, y: 3.166687}
+        - {x: 56, y: 3.166687}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 900
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.333344, y: 9.166687}
+        - {x: -30.666656, y: 8.166687}
+        - {x: -38.666656, y: 8.166687}
+        - {x: -26.666656, y: 11.166687}
+        - {x: -22.666656, y: 24.166687}
+        - {x: -28.666656, y: 32.166687}
+        - {x: -61.666656, y: 54.166687}
+        - {x: -121.66666, y: 54.166687}
+        - {x: -121.66666, y: -66.83331}
+        - {x: -70.66666, y: -66.83331}
+        - {x: 56.333344, y: -35.833313}
+        - {x: 58.333344, y: -29.833313}
+        - {x: 58.333344, y: 3.166687}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138.33331, y: 59.166687}
+        - {x: -138.33331, y: -20.833313}
+        - {x: -122.33331, y: -43.833313}
+        - {x: -100.33331, y: -72.83331}
+        - {x: -31.333313, y: -72.83331}
+        - {x: -16.333313, y: -61.833313}
+        - {x: -16.333313, y: 31.166687}
+        - {x: -32.333313, y: 59.166687}
+      - - {x: 47.666687, y: 56.166687}
+        - {x: 39.666687, y: 61.166687}
+        - {x: 10.666687, y: 61.166687}
+        - {x: 10.666687, y: -32.833313}
+        - {x: 13.666687, y: -33.833313}
+        - {x: 23.666687, y: -33.833313}
+        - {x: 32.666687, y: -28.833313}
+        - {x: 55.666687, y: 8.166687}
+        - {x: 55.666687, y: 43.166687}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 900
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: 59.166687}
+        - {x: -139, y: 48.166687}
+        - {x: -139, y: -19.833313}
+        - {x: -121, y: -36.833313}
+        - {x: -85, y: -40.833313}
+        - {x: -88, y: -34.833313}
+        - {x: -93, y: -52.833313}
+        - {x: -97, y: -58.833313}
+        - {x: -104, y: -72.83331}
+        - {x: -23, y: -72.83331}
+        - {x: -18, y: -62.833313}
+        - {x: -18, y: 11.166687}
+        - {x: -41, y: 59.166687}
+      - - {x: 9, y: 61.166687}
+        - {x: 9, y: -33.833313}
+        - {x: 22, y: -33.833313}
+        - {x: 54, y: 2.166687}
+        - {x: 54, y: 47.166687}
+        - {x: 38, y: 61.166687}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.333374, y: 78.16669}
+        - {x: 26.333374, y: 78.16669}
+        - {x: 22.333374, y: 75.16669}
+        - {x: 18.333374, y: 67.16669}
+        - {x: 24.333374, y: 64.16669}
+        - {x: -39.666626, y: 78.16669}
+        - {x: -119.666626, y: 78.16669}
+        - {x: -122.666626, y: 66.16669}
+        - {x: -138.66663, y: -6.833313}
+        - {x: -138.66663, y: -34.833313}
+        - {x: -136.66663, y: -37.833313}
+        - {x: -118.666626, y: -34.833313}
+        - {x: -113.666626, y: -24.833313}
+        - {x: -114.666626, y: -39.833313}
+        - {x: -115.666626, y: -74.83331}
+        - {x: -67.666626, y: -74.83331}
+        - {x: -63.666626, y: -73.83331}
+        - {x: 57.333374, y: -3.833313}
+        - {x: 58.333374, y: 3.166687}
+        - {x: 58.333374, y: 73.16669}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_11
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 900
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.33337, y: 78.16669}
+        - {x: -138.33337, y: 76.16669}
+        - {x: -138.33337, y: -34.833313}
+        - {x: -122.333374, y: -42.833313}
+        - {x: -108.333374, y: -16.833313}
+        - {x: -114.333374, y: -30.833313}
+        - {x: -114.333374, y: -39.833313}
+        - {x: -102.333374, y: -74.83331}
+        - {x: -63.333374, y: -74.83331}
+        - {x: 58.666626, y: 5.166687}
+        - {x: 58.666626, y: 73.16669}
+        - {x: 55.666626, y: 78.16669}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 74.111115}
+        - {x: -129, y: -57.888885}
+        - {x: -106, y: -69.888885}
+        - {x: -97, y: -73.888885}
+        - {x: -88, y: -67.888885}
+        - {x: -75, y: -67.888885}
+        - {x: -128, y: -86.888885}
+        - {x: -128, y: -94.888885}
+        - {x: -125, y: -95.888885}
+        - {x: -60, y: -95.888885}
+        - {x: 109, y: -41.888885}
+        - {x: 125, y: -29.888885}
+        - {x: 125, y: 74.111115}
+      - - {x: -142, y: -19.888885}
+        - {x: -145, y: -22.888885}
+        - {x: -145, y: -25.888885}
+        - {x: -143, y: -26.888885}
+        - {x: -139, y: -26.888885}
+        - {x: -138, y: -24.888885}
+        - {x: -138, y: -20.888885}
+        - {x: -140, y: -19.888885}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.33334, y: 74.111115}
+        - {x: -127.66666, y: 74.111115}
+        - {x: -127.66666, y: -14.8888855}
+        - {x: -111.66666, y: -75.888885}
+        - {x: -93.66666, y: -73.888885}
+        - {x: -84.66666, y: -59.888885}
+        - {x: -52.666656, y: -60.888885}
+        - {x: -122.66666, y: -84.888885}
+        - {x: -127.66666, y: -93.888885}
+        - {x: -127.66666, y: -95.888885}
+        - {x: -9.6666565, y: -95.888885}
+        - {x: 125.33334, y: -31.888885}
+        - {x: 125.33334, y: 45.111115}
+        - {x: 117.33334, y: 60.111115}
+      - - {x: -141.66666, y: -19.888885}
+        - {x: -143.66666, y: -21.888885}
+        - {x: -143.66666, y: -24.888885}
+        - {x: -141.66666, y: -26.888885}
+        - {x: -138.66666, y: -26.888885}
+        - {x: -137.66666, y: -23.888885}
+        - {x: -137.66666, y: -20.888885}
+        - {x: -139.66666, y: -19.888885}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.666687, y: 72.111115}
+        - {x: 18.666687, y: 63.111115}
+        - {x: -30.333313, y: 74.111115}
+        - {x: -127.33331, y: 74.111115}
+        - {x: -127.33331, y: -33.888885}
+        - {x: -99.33331, y: -74.888885}
+        - {x: -83.33331, y: -62.888885}
+        - {x: -83.33331, y: -73.888885}
+        - {x: -120.33331, y: -82.888885}
+        - {x: -125.33331, y: -93.888885}
+        - {x: -123.33331, y: -95.888885}
+        - {x: -14.333313, y: -95.888885}
+        - {x: 126.66669, y: -31.888885}
+        - {x: 126.66669, y: 36.111115}
+        - {x: 113.66669, y: 50.111115}
+      - - {x: -141.33331, y: -19.888885}
+        - {x: -143.33331, y: -21.888885}
+        - {x: -143.33331, y: -24.888885}
+        - {x: -141.33331, y: -26.888885}
+        - {x: -139.33331, y: -26.888885}
+        - {x: -137.33331, y: -24.888885}
+        - {x: -137.33331, y: -21.888885}
+        - {x: -139.33331, y: -19.888885}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_15
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 600
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 74.111115}
+        - {x: -139, y: 74.111115}
+        - {x: -144, y: 60.111115}
+        - {x: -144, y: 31.111115}
+        - {x: -115, y: -87.888885}
+        - {x: -100, y: -87.888885}
+        - {x: -56, y: -21.888885}
+        - {x: -97, y: -87.888885}
+        - {x: 39, y: -87.888885}
+        - {x: 123, y: -13.8888855}
+        - {x: 123, y: 59.111115}
+        - {x: 104, y: 70.111115}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.333374, y: 74.111115}
+        - {x: -140.66663, y: 74.111115}
+        - {x: -142.66663, y: 72.111115}
+        - {x: -142.66663, y: 0.1111145}
+        - {x: -106.666626, y: -85.888885}
+        - {x: -89.666626, y: -79.888885}
+        - {x: -91.666626, y: -84.888885}
+        - {x: -88.666626, y: -87.888885}
+        - {x: -80.666626, y: -87.888885}
+        - {x: -13.666626, y: -71.888885}
+        - {x: 45.333374, y: -64.888885}
+        - {x: 123.333374, y: -13.8888855}
+        - {x: 123.333374, y: 44.111115}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_17
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 600
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.666626, y: 67.111115}
+        - {x: 94.666626, y: 74.111115}
+        - {x: -142.33337, y: 74.111115}
+        - {x: -142.33337, y: 29.111115}
+        - {x: -132.33337, y: -44.888885}
+        - {x: -91.333374, y: -84.888885}
+        - {x: -84.333374, y: -63.888885}
+        - {x: -92.333374, y: -87.888885}
+        - {x: -54.333374, y: -87.888885}
+        - {x: 84.666626, y: -38.888885}
+        - {x: 114.666626, y: -25.888885}
+        - {x: 123.666626, y: -12.8888855}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 55.055557}
+        - {x: -63, y: 69.05556}
+        - {x: -133, y: 69.05556}
+        - {x: -133, y: -4.9444427}
+        - {x: -62, y: -85.94444}
+        - {x: -43, y: -85.94444}
+        - {x: -37, y: -61.944443}
+        - {x: -42, y: -52.944443}
+        - {x: 12, y: 22.055557}
+      - - {x: 113, y: 67.05556}
+        - {x: 58, y: 67.05556}
+        - {x: 53, y: 66.05556}
+        - {x: 44, y: 50.055557}
+        - {x: 22, y: -53.944443}
+        - {x: 22, y: -65.94444}
+        - {x: 53, y: -65.94444}
+        - {x: 96, y: -56.944443}
+        - {x: 149, y: -5.9444427}
+        - {x: 149, y: 47.055557}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.66666, y: -18.944443}
+        - {x: -98.66666, y: -85.94444}
+        - {x: -20.666656, y: -85.94444}
+        - {x: 12.3333435, y: -44.944443}
+        - {x: 12.3333435, y: 47.055557}
+        - {x: 8.3333435, y: 49.055557}
+        - {x: -82.66666, y: 69.05556}
+        - {x: -126.66666, y: 69.05556}
+        - {x: -132.66666, y: 55.055557}
+      - - {x: 150.33334, y: 50.055557}
+        - {x: 119.33334, y: 67.05556}
+        - {x: 52.333344, y: 67.05556}
+        - {x: 43.333344, y: 50.055557}
+        - {x: 22.333344, y: -48.944443}
+        - {x: 22.333344, y: -65.94444}
+        - {x: 49.333344, y: -65.94444}
+        - {x: 93.33334, y: -52.944443}
+        - {x: 150.33334, y: -11.944443}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.333313, y: 22.055557}
+        - {x: -14.333313, y: 19.055557}
+        - {x: -3.333313, y: 18.055557}
+        - {x: -2.333313, y: 20.055557}
+        - {x: -2.333313, y: 28.055557}
+        - {x: -50.333313, y: 78.05556}
+        - {x: -114.33331, y: 78.05556}
+        - {x: -120.33331, y: 66.05556}
+        - {x: -120.33331, y: 40.055557}
+        - {x: -98.33331, y: 18.055557}
+        - {x: -93.33331, y: 23.055557}
+        - {x: -76.33331, y: 29.055557}
+        - {x: -75.33331, y: 31.055557}
+        - {x: -81.33331, y: 27.055557}
+        - {x: -90.33331, y: 23.055557}
+        - {x: -95.33331, y: 1.0555573}
+        - {x: -45.333313, y: -72.94444}
+        - {x: -26.333313, y: -72.94444}
+        - {x: -25.333313, y: 17.055557}
+        - {x: -30.333313, y: 30.055557}
+        - {x: -28.333313, y: 25.055557}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 300
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 78.05556}
+        - {x: -122, y: 74.05556}
+        - {x: -122, y: 27.055557}
+        - {x: -112, y: 10.055557}
+        - {x: -51, y: -72.94444}
+        - {x: -27, y: -72.94444}
+        - {x: -4, y: -11.944443}
+        - {x: -4, y: 39.055557}
+        - {x: -46, y: 78.05556}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.666626, y: 17.055557}
+        - {x: -3.666626, y: 18.055557}
+        - {x: -3.666626, y: 38.055557}
+        - {x: -50.666626, y: 78.05556}
+        - {x: -120.666626, y: 78.05556}
+        - {x: -120.666626, y: 20.055557}
+        - {x: -106.666626, y: -9.944443}
+        - {x: -47.666626, y: -72.94444}
+        - {x: -28.666626, y: -72.94444}
+        - {x: -28.666626, y: 22.055557}
+        - {x: -34.666626, y: 31.055557}
+        - {x: -26.666626, y: 20.055557}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_23
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 300
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.333374, y: 52.055557}
+        - {x: -109.333374, y: 24.055557}
+        - {x: -109.333374, y: -74.94444}
+        - {x: -96.333374, y: -90.94444}
+        - {x: -8.333374, y: -90.94444}
+        - {x: -8.333374, y: 32.055557}
+        - {x: -29.333374, y: 52.055557}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 51}
+        - {x: -85, y: 51}
+        - {x: -110, y: 22}
+        - {x: -110, y: -62}
+        - {x: -76, y: -92}
+        - {x: -23, y: -92}
+        - {x: -9, y: -88}
+        - {x: -9, y: -38}
+        - {x: -13, y: 16}
+    - name: HyperSonic mid-air roundhouse kick_Spritesheet6x5_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.666656, y: 51}
+        - {x: -82.66666, y: 51}
+        - {x: -86.66666, y: 44}
+        - {x: -109.66666, y: 0}
+        - {x: -109.66666, y: -18}
+        - {x: -108.66666, y: -20}
+        - {x: -101.66666, y: -73}
+        - {x: -73.66666, y: -92}
+        - {x: -24.666656, y: -92}
+        - {x: -17.666656, y: -91}
+        - {x: -8.6666565, y: -85}
+        - {x: -8.6666565, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,6 +12,8 @@ public class player : MonoBehaviour {
 	bool isJumping = false;
 	public Vector2 jumpHeight = new Vector2(0, 15);
 	public float jumpTimer = 1;
+	public float attackTimer = 0;
+	bool attacking = false;
 
 	// Use this for initialization
 	void Start () {
@@ -26,12 +28,18 @@ public class player : MonoBehaviour {
 		} else if(isJumping){
 			isJumping = false;
 		}
+
+		if(attackTimer > 0){
+			attackTimer -= 0.02f;
+		} else if(attacking){
+			attacking = false;
+		}
 	}
 
 	// Update is called once per frame
 	void Update () {
 		float horizontal = Input.GetAxis("Horizontal");
-		if(!isJumping){
+		if(!isJumping && !attacking){
 			if(Input.GetButton("Crouch") && horizontal != 0){
 				Debug.Log("Crouching");
 				collider.offset = new Vector2(0f, 0.23f);
@@ -60,7 +68,7 @@ public class player : MonoBehaviour {
 
 	private void HandleMovement(float h){
 
-		if(h != 0f && !isCrouching && !isRunning && !isJumping)
+		if(h != 0f && !isCrouching && !isRunning && !isJumping && !attacking)
 		{
 			animator.SetBool("isWalking", true);
 		} 
@@ -78,7 +86,7 @@ public class player : MonoBehaviour {
             transform.localScale = new Vector2(-1, transform.localScale.y);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && jumpTimer >= 1)  //makes player jump
+        if (Input.GetButtonDown("Jump") && jumpTimer >= 1 && !attacking)
     	{
         	myRigidbody.AddForce(jumpHeight, ForceMode2D.Impulse);
         	jumpTimer = 0f;
@@ -86,6 +94,22 @@ public class player : MonoBehaviour {
         	animator.SetTrigger("jump");
     	}
 
-		myRigidbody.velocity = new Vector2(h * speed, myRigidbody.velocity.y);
+    	if(Input.GetButtonDown("attack") && !attacking && !isJumping){
+    		animator.SetTrigger("attack");
+    		attacking = true;
+			attackTimer = 1f;
+
+    	}
+
+    	if(Input.GetButtonDown("airattack") && !attacking && !isJumping){
+    		animator.SetTrigger("airattack");
+    		attacking = true;
+			attackTimer = 0.50f;
+    	}
+    	if(!attacking){
+			myRigidbody.velocity = new Vector2(h * speed, myRigidbody.velocity.y);
+		} else {
+			myRigidbody.velocity = new Vector2(0, myRigidbody.velocity.y);
+		}
 	}
 }
