@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CD7627D3-597A-2080-61DD-FF3681D74FE1}") = "HyperSonic", "Assembly-CSharp.csproj", "{4B7FA8D4-04CD-0BE6-D9C7-786AB07B208B}"
+EndProject
+Project("{CD7627D3-597A-2080-61DD-FF3681D74FE1}") = "HyperSonic", "Assembly-CSharp-Editor.csproj", "{3CE06820-CDE4-22C3-F765-78D082769BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7FA8D4-04CD-0BE6-D9C7-786AB07B208B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7FA8D4-04CD-0BE6-D9C7-786AB07B208B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7FA8D4-04CD-0BE6-D9C7-786AB07B208B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7FA8D4-04CD-0BE6-D9C7-786AB07B208B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE06820-CDE4-22C3-F765-78D082769BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE06820-CDE4-22C3-F765-78D082769BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE06820-CDE4-22C3-F765-78D082769BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE06820-CDE4-22C3-F765-78D082769BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

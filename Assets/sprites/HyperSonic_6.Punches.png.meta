@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 753a08871d268434c8851fdbe19ee7e2
+timeCreated: 1463195353
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HyperSonic_6.Punches_0
+    21300002: HyperSonic_6.Punches_1
+    21300004: HyperSonic_6.Punches_2
+    21300006: HyperSonic_6.Punches_3
+    21300008: HyperSonic_6.Punches_4
+    21300010: HyperSonic_6.Punches_5
+    21300012: HyperSonic_6.Punches_6
+    21300014: HyperSonic_6.Punches_7
+    21300016: HyperSonic_6.Punches_8
+    21300018: HyperSonic_6.Punches_9
+    21300020: HyperSonic_6.Punches_10
+    21300022: HyperSonic_6.Punches_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HyperSonic_6.Punches_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 553
+        width: 317
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 158.5, y: 22}
+        - {x: 158.5, y: 98}
+        - {x: -2.5, y: 98}
+        - {x: -90.5, y: 69}
+        - {x: -158.5, y: -75}
+        - {x: -158.5, y: -97}
+        - {x: -155.5, y: -98}
+        - {x: -137.5, y: -98}
+        - {x: -134.5, y: -97}
+        - {x: -126.5, y: -88}
+        - {x: -19.5, y: -98}
+        - {x: 38.5, y: -98}
+    - name: HyperSonic_6.Punches_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 556
+        width: 266
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 96.5}
+        - {x: -133, y: -46.5}
+        - {x: -133, y: -96.5}
+        - {x: 28, y: -96.5}
+        - {x: 43, y: -94.5}
+        - {x: 133, y: 47.5}
+        - {x: 133, y: 96.5}
+    - name: HyperSonic_6.Punches_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 363
+        width: 225
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: 95.5}
+        - {x: 31.5, y: 95.5}
+        - {x: -42.5, y: 71.5}
+        - {x: -38.5, y: 43.5}
+        - {x: -27.5, y: 37.5}
+        - {x: -74.5, y: -21.5}
+        - {x: -112.5, y: -38.5}
+        - {x: -112.5, y: -95.5}
+        - {x: 87.5, y: -95.5}
+        - {x: 112.5, y: 5.5}
+        - {x: 112.5, y: 69.5}
+        - {x: 106.5, y: 76.5}
+    - name: HyperSonic_6.Punches_3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 553
+        width: 100
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -98}
+        - {x: 40, y: -96}
+        - {x: 37, y: -95}
+        - {x: 35, y: -98}
+      - - {x: -24, y: 98}
+        - {x: -50, y: 81}
+        - {x: -50, y: -72}
+        - {x: -41, y: -87}
+        - {x: 50, y: -87}
+        - {x: 50, y: 81}
+        - {x: 31, y: 98}
+    - name: HyperSonic_6.Punches_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 241
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.5, y: 88}
+        - {x: 107.5, y: 93}
+        - {x: 4.5, y: 93}
+        - {x: -120.5, y: -59}
+        - {x: -120.5, y: -93}
+        - {x: 78.5, y: -93}
+        - {x: 120.5, y: 2}
+        - {x: 120.5, y: 85}
+    - name: HyperSonic_6.Punches_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 383
+        width: 190
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 63}
+        - {x: -95, y: 63}
+        - {x: -95, y: -77}
+        - {x: -39, y: -77}
+        - {x: -33, y: -69}
+        - {x: -33, y: -61}
+        - {x: 34, y: -77}
+        - {x: 95, y: -77}
+        - {x: 95, y: -47}
+        - {x: -39, y: 61}
+      - - {x: 39, y: 75}
+        - {x: 39, y: 77}
+        - {x: 34, y: 77}
+        - {x: 36, y: 74}
+    - name: HyperSonic_6.Punches_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 223
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: 90}
+        - {x: 57.5, y: 90}
+        - {x: 12.5, y: 86}
+        - {x: -111.5, y: -66}
+        - {x: -111.5, y: -90}
+        - {x: 104.5, y: -90}
+        - {x: 111.5, y: -18}
+        - {x: 111.5, y: 83}
+    - name: HyperSonic_6.Punches_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 181
+        width: 223
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 90}
+        - {x: -111.5, y: -49}
+        - {x: -111.5, y: -90}
+        - {x: 92.5, y: -90}
+        - {x: 111.5, y: -55}
+        - {x: 111.5, y: 90}
+    - name: HyperSonic_6.Punches_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 181
+        width: 222
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 12}
+        - {x: 88, y: 28}
+        - {x: 111, y: 43}
+        - {x: 111, y: 66}
+        - {x: 103, y: 63}
+        - {x: 95, y: 62}
+        - {x: 95, y: 61}
+        - {x: 96, y: 67}
+        - {x: 98, y: 78}
+        - {x: 94, y: 90}
+        - {x: 67, y: 90}
+        - {x: 62, y: 89}
+        - {x: 20, y: 76}
+        - {x: -109, y: -64}
+        - {x: -111, y: -69}
+        - {x: -111, y: -90}
+        - {x: 67, y: -90}
+        - {x: 77, y: -83}
+        - {x: 74, y: -15}
+        - {x: 57, y: 4}
+    - name: HyperSonic_6.Punches_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 256
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 88.5}
+        - {x: -84, y: 48.5}
+        - {x: -97, y: 17.5}
+        - {x: -88, y: 12.5}
+        - {x: -107, y: -20.5}
+        - {x: -128, y: -65.5}
+        - {x: -128, y: -88.5}
+        - {x: 95, y: -88.5}
+        - {x: 128, y: -64.5}
+        - {x: 128, y: 61.5}
+        - {x: 32, y: 88.5}
+    - name: HyperSonic_6.Punches_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 196
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 85.5}
+        - {x: -98, y: -32.5}
+        - {x: -98, y: -84.5}
+        - {x: -94, y: -85.5}
+        - {x: 98, y: -85.5}
+        - {x: 98, y: 85.5}
+    - name: HyperSonic_6.Punches_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 34
+        width: 187
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 72.5}
+        - {x: -65.5, y: 72.5}
+        - {x: -93.5, y: 50.5}
+        - {x: -93.5, y: -72.5}
+        - {x: 93.5, y: -72.5}
+        - {x: 93.5, y: -34.5}
+        - {x: 56.5, y: 48.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/level_beta.unity
+  isLoaded: 1
+  isActive: 1

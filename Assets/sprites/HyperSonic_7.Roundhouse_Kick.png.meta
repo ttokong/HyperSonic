@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 505c919f741411b4e9813bcc5b7951d9
+timeCreated: 1463195386
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HyperSonic_7.Roundhouse_Kick_0
+    21300002: HyperSonic_7.Roundhouse_Kick_1
+    21300004: HyperSonic_7.Roundhouse_Kick_2
+    21300006: HyperSonic_7.Roundhouse_Kick_3
+    21300008: HyperSonic_7.Roundhouse_Kick_4
+    21300010: HyperSonic_7.Roundhouse_Kick_5
+    21300012: HyperSonic_7.Roundhouse_Kick_6
+    21300014: HyperSonic_7.Roundhouse_Kick_7
+    21300016: HyperSonic_7.Roundhouse_Kick_8
+    21300018: HyperSonic_7.Roundhouse_Kick_9
+    21300020: HyperSonic_7.Roundhouse_Kick_10
+    21300022: HyperSonic_7.Roundhouse_Kick_11
+    21300024: HyperSonic_7.Roundhouse_Kick_12
+    21300026: HyperSonic_7.Roundhouse_Kick_13
+    21300028: HyperSonic_7.Roundhouse_Kick_14
+    21300030: HyperSonic_7.Roundhouse_Kick_15
+    21300032: HyperSonic_7.Roundhouse_Kick_16
+    21300034: HyperSonic_7.Roundhouse_Kick_17
+    21300036: HyperSonic_7.Roundhouse_Kick_18
+    21300038: HyperSonic_7.Roundhouse_Kick_19
+    21300040: HyperSonic_7.Roundhouse_Kick_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HyperSonic_7.Roundhouse_Kick_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 668
+        width: 370
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 118}
+        - {x: -55, y: 84}
+        - {x: -59, y: 36}
+        - {x: -71, y: -26}
+        - {x: -71, y: -118}
+        - {x: -6, y: -118}
+        - {x: 185, y: 46}
+        - {x: 185, y: 105}
+        - {x: 92, y: 118}
+      - - {x: -185, y: 1}
+        - {x: -183, y: 1}
+        - {x: -181, y: 3}
+        - {x: -182, y: 6}
+        - {x: -185, y: 6}
+    - name: HyperSonic_7.Roundhouse_Kick_1
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 713
+        width: 239
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: -60.5}
+        - {x: 119.5, y: -19.5}
+        - {x: 119.5, y: 73.5}
+        - {x: 111.5, y: 95.5}
+        - {x: 34.5, y: 95.5}
+        - {x: 18.5, y: 82.5}
+        - {x: 21.5, y: 74.5}
+        - {x: -62.5, y: 64.5}
+        - {x: -90.5, y: 56.5}
+        - {x: -119.5, y: 30.5}
+        - {x: -119.5, y: -76.5}
+        - {x: -115.5, y: -95.5}
+        - {x: -14.5, y: -95.5}
+        - {x: 9.5, y: -89.5}
+        - {x: 9.5, y: -75.5}
+        - {x: 5.5, y: -63.5}
+        - {x: -9.5, y: -60.5}
+    - name: HyperSonic_7.Roundhouse_Kick_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 649
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 48}
+        - {x: -27, y: 48}
+        - {x: -46, y: 34}
+        - {x: -46, y: -48}
+        - {x: 2, y: -48}
+        - {x: 45, y: 7}
+        - {x: 46, y: 10}
+        - {x: 46, y: 23}
+      - - {x: 42, y: 48}
+        - {x: 42, y: 47}
+        - {x: 45, y: 44}
+        - {x: 46, y: 44}
+        - {x: 46, y: 48}
+    - name: HyperSonic_7.Roundhouse_Kick_3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 739
+        width: 233
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 82.5}
+        - {x: 24.5, y: 76.5}
+        - {x: 20.5, y: 69.5}
+        - {x: -77.5, y: 63.5}
+        - {x: -116.5, y: 11.5}
+        - {x: -116.5, y: -82.5}
+        - {x: 61.5, y: -82.5}
+        - {x: 116.5, y: -19.5}
+        - {x: 116.5, y: 64.5}
+        - {x: 100.5, y: 82.5}
+    - name: HyperSonic_7.Roundhouse_Kick_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 193
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -87.5}
+        - {x: 6.5, y: -87.5}
+        - {x: 50.5, y: -83.5}
+        - {x: 96.5, y: 36.5}
+        - {x: 96.5, y: 87.5}
+        - {x: -58.5, y: 87.5}
+        - {x: -75.5, y: 84.5}
+        - {x: -96.5, y: 66.5}
+        - {x: -96.5, y: -71.5}
+        - {x: -89.5, y: -87.5}
+        - {x: -59.5, y: -87.5}
+        - {x: -57.5, y: -78.5}
+        - {x: -57.5, y: -60.5}
+        - {x: -52.5, y: -71.5}
+      - - {x: -8.5, y: -87.5}
+        - {x: 2.5, y: -87.5}
+        - {x: 2.5, y: -80.5}
+        - {x: 1.5, y: -78.5}
+        - {x: -2.5, y: -78.5}
+        - {x: -6.5, y: -79.5}
+    - name: HyperSonic_7.Roundhouse_Kick_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 561
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 52.5}
+        - {x: -52, y: 51.5}
+        - {x: -52, y: 28.5}
+        - {x: -12, y: -16.5}
+        - {x: 21, y: -52.5}
+        - {x: 52, y: -52.5}
+        - {x: 52, y: 35.5}
+        - {x: 47, y: 52.5}
+      - - {x: -52, y: -32.5}
+        - {x: -43, y: -32.5}
+        - {x: -6, y: 15.5}
+        - {x: -6, y: 34.5}
+        - {x: -18, y: 34.5}
+        - {x: -52, y: 12.5}
+    - name: HyperSonic_7.Roundhouse_Kick_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 633
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 22.5}
+        - {x: 50.5, y: 36.5}
+        - {x: 31.5, y: 36.5}
+        - {x: -45.5, y: 24.5}
+        - {x: -50.5, y: 17.5}
+        - {x: -50.5, y: -32.5}
+        - {x: -41.5, y: -36.5}
+        - {x: 12.5, y: -36.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 33.5, y: -9.5}
+        - {x: 49.5, y: 15.5}
+    - name: HyperSonic_7.Roundhouse_Kick_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 435
+        width: 275
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.5, y: 106}
+        - {x: 8.5, y: 66}
+        - {x: -0.5, y: 49}
+        - {x: 4.5, y: 73}
+        - {x: -19.5, y: 106}
+        - {x: -47.5, y: 106}
+        - {x: -125.5, y: 48}
+        - {x: -137.5, y: -38}
+        - {x: -137.5, y: -65}
+        - {x: -132.5, y: -68}
+        - {x: -95.5, y: -35}
+        - {x: -75.5, y: -17}
+        - {x: -62.5, y: -32}
+        - {x: -55.5, y: -106}
+        - {x: -15.5, y: -106}
+        - {x: 56.5, y: -68}
+        - {x: 137.5, y: 82}
+        - {x: 137.5, y: 106}
+    - name: HyperSonic_7.Roundhouse_Kick_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 410
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 18}
+        - {x: 47.5, y: 34}
+        - {x: 4.5, y: 34}
+        - {x: -47.5, y: -11}
+        - {x: -47.5, y: -34}
+        - {x: 13.5, y: -34}
+        - {x: 30.5, y: -20}
+        - {x: 23.5, y: -13}
+      - - {x: -26.5, y: 34}
+        - {x: -24.5, y: 28}
+        - {x: -21.5, y: 25}
+        - {x: -12.5, y: 25}
+        - {x: -12.5, y: 33}
+        - {x: -13.5, y: 34}
+    - name: HyperSonic_7.Roundhouse_Kick_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 403
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 34.5}
+        - {x: -48, y: -26.5}
+        - {x: -48, y: -34.5}
+        - {x: -9, y: -34.5}
+        - {x: 48, y: -20.5}
+        - {x: 48, y: 34.5}
+    - name: HyperSonic_7.Roundhouse_Kick_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 432
+        width: 236
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: -97.5}
+        - {x: -94, y: -99.5}
+        - {x: -39, y: -99.5}
+        - {x: -39, y: -57.5}
+        - {x: -51, y: -57.5}
+        - {x: -62, y: -61.5}
+      - - {x: 116, y: 99.5}
+        - {x: -71, y: 99.5}
+        - {x: -99, y: 97.5}
+        - {x: -118, y: 72.5}
+        - {x: -118, y: 8.5}
+        - {x: -4, y: -99.5}
+        - {x: 41, y: -99.5}
+        - {x: 110, y: -5.5}
+        - {x: 118, y: 22.5}
+        - {x: 118, y: 96.5}
+    - name: HyperSonic_7.Roundhouse_Kick_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 391
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -13}
+        - {x: -31.5, y: -14}
+        - {x: -35.5, y: -20}
+        - {x: -35.5, y: -21}
+        - {x: -19.5, y: -21}
+        - {x: -18.5, y: -20}
+        - {x: -18.5, y: -16}
+        - {x: -19.5, y: -13}
+      - - {x: -40.5, y: 3}
+        - {x: 24.5, y: -21}
+        - {x: 40.5, y: -21}
+        - {x: 40.5, y: 3}
+        - {x: 37.5, y: 10}
+        - {x: 27.5, y: 21}
+        - {x: -40.5, y: 21}
+    - name: HyperSonic_7.Roundhouse_Kick_12
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 160
+        width: 149
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 136.5}
+        - {x: -73.5, y: -136.5}
+        - {x: 17.5, y: -136.5}
+        - {x: 74.5, y: -20.5}
+        - {x: 74.5, y: 101.5}
+        - {x: -22.5, y: 136.5}
+      - - {x: -71.5, y: 63.5}
+        - {x: -71.5, y: 66.5}
+        - {x: -74.5, y: 67.5}
+        - {x: -74.5, y: 62.5}
+    - name: HyperSonic_7.Roundhouse_Kick_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 190
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -75.5}
+        - {x: 38, y: -71.5}
+        - {x: 39, y: -66.5}
+        - {x: 24, y: -54.5}
+        - {x: 95, y: 50.5}
+        - {x: 95, y: 86.5}
+        - {x: -78, y: 86.5}
+        - {x: -85, y: 50.5}
+        - {x: -67, y: 40.5}
+        - {x: -90, y: 31.5}
+        - {x: -95, y: 27.5}
+        - {x: -95, y: 2.5}
+        - {x: -94, y: -3.5}
+        - {x: -76, y: -86.5}
+        - {x: -54, y: -86.5}
+        - {x: -49, y: -67.5}
+        - {x: -49, y: -74.5}
+        - {x: -11, y: -85.5}
+    - name: HyperSonic_7.Roundhouse_Kick_14
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 296
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 52.5}
+        - {x: -52, y: 51.5}
+        - {x: -52, y: 28.5}
+        - {x: -12, y: -16.5}
+        - {x: 21, y: -52.5}
+        - {x: 52, y: -52.5}
+        - {x: 52, y: 35.5}
+        - {x: 47, y: 52.5}
+      - - {x: -10, y: 30.5}
+        - {x: -22, y: 30.5}
+        - {x: -52, y: 12.5}
+        - {x: -52, y: -25.5}
+        - {x: -49, y: -24.5}
+        - {x: -29, y: -10.5}
+        - {x: -11, y: 8.5}
+        - {x: -10, y: 15.5}
+    - name: HyperSonic_7.Roundhouse_Kick_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 196
+        width: 234
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -53.5}
+        - {x: 52, y: -92.5}
+        - {x: 117, y: -3.5}
+        - {x: 117, y: 102.5}
+        - {x: -117, y: 102.5}
+        - {x: -117, y: 45.5}
+        - {x: -106, y: 17.5}
+        - {x: -68, y: -102.5}
+        - {x: -36, y: -102.5}
+        - {x: -5, y: -55.5}
+        - {x: 11, y: -31.5}
+        - {x: 3, y: -48.5}
+    - name: HyperSonic_7.Roundhouse_Kick_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 229
+        width: 185
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: 21}
+        - {x: 92.5, y: 84}
+        - {x: -85.5, y: 84}
+        - {x: -92.5, y: 59}
+        - {x: -92.5, y: -6}
+        - {x: -72.5, y: -84}
+        - {x: -51.5, y: -84}
+        - {x: -51.5, y: -63}
+        - {x: -31.5, y: -79}
+        - {x: 59.5, y: -76}
+    - name: HyperSonic_7.Roundhouse_Kick_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 179
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 77}
+        - {x: -89.5, y: -66}
+        - {x: -85.5, y: -77}
+        - {x: 81.5, y: -77}
+        - {x: 89.5, y: -46}
+        - {x: 89.5, y: 29}
+        - {x: 38.5, y: 77}
+    - name: HyperSonic_7.Roundhouse_Kick_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 30
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 82}
+        - {x: -66.5, y: 81}
+        - {x: -81.5, y: 33}
+        - {x: -81.5, y: -15}
+        - {x: -17.5, y: -82}
+        - {x: 52.5, y: -82}
+        - {x: 54.5, y: -80}
+        - {x: 81.5, y: -40}
+        - {x: 81.5, y: 16}
+        - {x: 4.5, y: 82}
+    - name: HyperSonic_7.Roundhouse_Kick_19
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 140
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 112.5}
+        - {x: -10, y: 88.5}
+        - {x: -70, y: -78.5}
+        - {x: -70, y: -112.5}
+        - {x: -9, y: -112.5}
+        - {x: 70, y: -45.5}
+        - {x: 70, y: 112.5}
+    - name: HyperSonic_7.Roundhouse_Kick_20
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 43
+        width: 187
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: -8.5}
+        - {x: 50.5, y: -0.5}
+        - {x: 93.5, y: 33.5}
+        - {x: 93.5, y: 53.5}
+        - {x: 59.5, y: 57.5}
+        - {x: -80.5, y: 57.5}
+        - {x: -93.5, y: 52.5}
+        - {x: -93.5, y: 23.5}
+        - {x: -86.5, y: 13.5}
+        - {x: -75.5, y: -57.5}
+        - {x: 34.5, y: -57.5}
+        - {x: 61.5, y: -19.5}
+        - {x: 64.5, y: -10.5}
+        - {x: 60.5, y: -8.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
