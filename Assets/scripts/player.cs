@@ -104,7 +104,7 @@ public class player : MonoBehaviour {
     	if(Input.GetButtonDown("airattack") && !attacking && !isJumping){
     		animator.SetTrigger("airattack");
     		attacking = true;
-			attackTimer = 0.50f;
+			attackTimer = 1f;
     	}
     	if(!attacking){
 			myRigidbody.velocity = new Vector2(h * speed, myRigidbody.velocity.y);
