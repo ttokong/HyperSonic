@@ -1,18 +1,43 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
+using System.Collections.Generic;
 
 public class player : MonoBehaviour {
 
 	private Rigidbody2D myRigidbody;
 	private Animator animator;
 	private CircleCollider2D collider;
+
+
 	public float speed = 5f;
 	bool isCrouching = false;
 	bool isRunning = false;
 	bool isJumping = false;
+
+
 	public Vector2 jumpHeight = new Vector2(0, 15);
+
+	public float health;
+	public float maxHealth;
+
+	public float mana;
+	public float maxMana;
+
 	public float jumpTimer = 1;
 	public float attackTimer = 0;
+
+ 	public List<float> coolDown = new List<float>();
+ 	public List<float> currentCoolDown = new List<float>();
+ 	public List<float> spellCost = new List<float>();
+
+
+	public List<GameObject> SpellsCooldownOverlays;
+	public List<GameObject> SpellsCooldownNumber;
+
+	public GameObject healthUI;
+	public GameObject manaUI;
+
 	bool attacking = false;
 
 	// Use this for initialization
@@ -23,6 +48,7 @@ public class player : MonoBehaviour {
 	}
 
 	void FixedUpdate () {
+
 		if(jumpTimer < 1){
 			jumpTimer += 0.02f;
 		} else if(isJumping){
@@ -34,11 +60,29 @@ public class player : MonoBehaviour {
 		} else if(attacking){
 			attacking = false;
 		}
+
+		for (int i = 0; i < 4; i++){
+			if(currentCoolDown[i] <= 0){
+				currentCoolDown[i] = 0;
+			} else {
+				currentCoolDown[i] -= 0.02f;
+			}
+		}
+
+		if(mana < maxMana){
+			mana += 0.08f;
+			if(mana > maxMana){
+				mana = maxMana;
+			}
+		}
+
 	}
 
 	// Update is called once per frame
 	void Update () {
 		float horizontal = Input.GetAxis("Horizontal");
+
+		//Crounching And Running Stuff
 		if(!isJumping && !attacking){
 			if(Input.GetButton("Crouch") && horizontal != 0){
 				Debug.Log("Crouching");
@@ -64,6 +108,36 @@ public class player : MonoBehaviour {
 		}
 
 		HandleMovement(horizontal);
+		HandleUI();
+	}
+
+	private void HandleUI(){
+		//Updates the Health and Mana
+
+		healthUI.GetComponent<Text>().text = "<b>HP</b> "+ Mathf.Round(health).ToString() + "/" + Mathf.Round(maxHealth).ToString();
+		manaUI.GetComponent<Text>().text = "<b>MP</b> "+ Mathf.Round(mana).ToString() + "/" + Mathf.Round(maxMana).ToString();
+
+		//Updates the Cooldown UI Area
+		for (int i = 0; i < 4; i++){
+
+			if(currentCoolDown[i] > 0){
+
+				SpellsCooldownOverlays[i].SetActive(true);
+				SpellsCooldownNumber[i].SetActive(true);
+				SpellsCooldownNumber[i].GetComponent<Text>().text = Mathf.Round(currentCoolDown[i]).ToString();
+
+			} else if(spellCost[i] > mana){
+				
+				SpellsCooldownNumber[i].SetActive(false);
+				SpellsCooldownOverlays[i].SetActive(true);
+
+			} else {
+
+				SpellsCooldownOverlays[i].SetActive(false);
+				SpellsCooldownNumber[i].SetActive(false);
+
+			}
+		}
 	}
 
 	private void HandleMovement(float h){
@@ -94,17 +168,19 @@ public class player : MonoBehaviour {
         	animator.SetTrigger("jump");
     	}
 
-    	if(Input.GetButtonDown("attack") && !attacking && !isJumping){
+    	if(Input.GetButtonDown("attack") && !attacking && !isJumping && currentCoolDown[0] <= 0){
     		animator.SetTrigger("attack");
     		attacking = true;
 			attackTimer = 1f;
-
+			currentCoolDown[0] = coolDown[0];
     	}
 
-    	if(Input.GetButtonDown("airattack") && !attacking && !isJumping){
+    	if(Input.GetButtonDown("airattack") && !attacking && !isJumping && currentCoolDown[1] <= 0 && mana >= 50){
     		animator.SetTrigger("airattack");
     		attacking = true;
 			attackTimer = 1f;
+			currentCoolDown[1] = coolDown[1];
+			mana -= 50;
     	}
     	if(!attacking){
 			myRigidbody.velocity = new Vector2(h * speed, myRigidbody.velocity.y);
