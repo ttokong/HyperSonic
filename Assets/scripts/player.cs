@@ -9,12 +9,12 @@ public class player : MonoBehaviour {
 	private Animator animator;
 	private CircleCollider2D collider;
 
+	public float wallIdleSpeed = 0;
 
 	public float speed = 5f;
 	bool isCrouching = false;
 	bool isRunning = false;
 	bool isJumping = false;
-
 
 	public Vector2 jumpHeight = new Vector2(0, 15);
 
@@ -80,6 +80,16 @@ public class player : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+
+		bool wallIdle = false;
+		if ((myRigidbody.collisions.left || myRigidbody.collisions.right) && !myRigidbody.collisions.below && velocity.y < 0) {
+			wallIdle = true;
+
+			if (velocity.y < wallIdleSpeed) {
+				velocity.y = wallIdleSpeed;
+			}
+
+		}
 		float horizontal = Input.GetAxis("Horizontal");
 
 		//Crounching And Running Stuff
